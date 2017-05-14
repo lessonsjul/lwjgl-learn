@@ -6,7 +6,7 @@ On Mac OS X you need to add -XstartOnFirstThread as JVM argument to start the ap
 
 You may also need to add -Djava.awt.headless=true as JVM argument to get access to the AWT classes.
 
-import org.lwjgl.Version;
+	import org.lwjgl.Version;
 
 	public class TestSetup {
 	

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/Users/yuliabicheva/Downloads/lwjgl-2/jar/lwjgl.jar" sourcepath="/Users/yuliabicheva/Downloads/lwjgl-2/src.zip">
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8" />
+	<classpathentry kind="lib"
+		path="/Users/yuliabicheva/Downloads/lwjgl-2/jar/lwjgl.jar" sourcepath="/Users/yuliabicheva/Downloads/lwjgl-2/src.zip">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/yuliabicheva/Downloads/lwjgl-2/native"/>
+			<attribute
+				name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY"
+				value="/Users/yuliabicheva/Downloads/lwjgl-2/native" />
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="output" path="bin"/>
 </classpath>
